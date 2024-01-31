@@ -21,7 +21,7 @@ Clone the Repository
 
     bash
 
-    git clone https://github.com/username/SnakeFX.git
+    git clone https://github.com/darendk/TPSnake-JAVA
 
     Replace username with the actual username of the repository owner.
 

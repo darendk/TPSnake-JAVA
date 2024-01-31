@@ -1,5 +1,5 @@
 # TPSnake-JAVA
-This is a Java Snake Game.
+Written by BALOOMOODY DAREN INFO3
 Overview
 
 SnakeFX is a simple implementation of the classic Snake game using Java and JavaFX. This README provides instructions on how to clone the SnakeFX repository and import it into the Eclipse IDE for Java development.
